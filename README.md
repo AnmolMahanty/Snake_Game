@@ -17,7 +17,7 @@ Ready to test your reflexes and strategic thinking? Clone the repository and unl
 
 Installation:
 
-Clone the repository: git clone https://github.com/your-username/snake-game-java.git
+Clone the repository: git clone (https://github.com/AnmolMahanty/Snake_Game.git)
 Navigate to the project directory: cd snake-game-java
 Compile the code: javac SnakeGame.java
 Run the game: java SnakeGame
